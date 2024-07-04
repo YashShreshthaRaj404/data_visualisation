@@ -16,4 +16,12 @@ It comes with a verity of plots but the most used module of Matplotlib is Pyplot
 python -m pip install -U pip
 python -m pip install -U matplotlib 
 ```
+● To install using Anaconda:
+```
+conda install natplotlib
+```
+Or
+```
+conda install -c conda-forge matplotlib
+```
 
