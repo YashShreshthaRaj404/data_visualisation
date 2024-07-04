@@ -37,4 +37,6 @@ import matplotlib.pyplot as plt
 ### • Scatter Plot
 ### • Bar Chart 
 ### • Pie Chart
+### • Histogram 
+### • Box Plot (Whisker Plot)
 
