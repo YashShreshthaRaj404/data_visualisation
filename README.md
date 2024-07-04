@@ -40,3 +40,6 @@ import matplotlib.pyplot as plt
 ### • Histogram 
 ### • Box Plot (Whisker Plot)
 
+
+## And, we have made all types of plots projects here!
+
