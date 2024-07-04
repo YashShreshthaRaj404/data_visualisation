@@ -34,7 +34,7 @@ import matplotlib.pyplot as plt
 ```
 
 
-### Scatter Plot
-### Bar Chart 
-### Pie Chart
+### • Scatter Plot
+### • Bar Chart 
+### • Pie Chart
 
