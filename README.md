@@ -1,6 +1,8 @@
 # Data Visualisation In Python 
 The graphical representation of the data set to identify patters and trends out of it is called DATA VISUALISATION.
 
+### And, here we have created a Python projects with Graphical Representation meathod.
+
 
 Matplotlib is used for data visualisation in Python. Now we will know what Matplotlib is and what different kind of graph are there to represent data.
 
