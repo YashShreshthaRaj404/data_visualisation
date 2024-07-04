@@ -43,5 +43,4 @@ import matplotlib.pyplot as plt
 ### • Box Plot (Whisker Plot)
 
 
-## And, we have made all types of plots projects here!
 
