@@ -33,3 +33,8 @@ conda install -c conda-forge matplotlib
 import matplotlib.pyplot as plt
 ```
 
+
+### Scatter Plot
+### Bar Chart 
+### Pie Chart
+
