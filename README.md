@@ -27,7 +27,7 @@ conda install -c conda-forge matplotlib
 ```
 
 
-### And, we have to load Matplotlib to start plotting different graphs:
+#### And, we have to load Matplotlib to start plotting different graphs:
 
 ```
 import matplotlib.pyplot as plt
