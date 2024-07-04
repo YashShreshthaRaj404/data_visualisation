@@ -9,6 +9,8 @@ Matplotlib is used for data visualisation in Python. Now we will know what Matpl
 ## Matplotlib 
 Matplotlib was created by John D.Hunter in 2003. It is a free and open source data visualisation liberty in python.
 
+![logo](https://en.m.wikipedia.org/wiki/File:Mpl_screenshot_figures_and_code.png )
+
 It comes with a verity of plots but the most used module of Matplotlib is Pyplot which is used for creating 2D plots of arrays.
 
 ## Installing Matplotlib 
