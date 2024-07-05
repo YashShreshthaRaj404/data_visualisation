@@ -18,11 +18,11 @@ python -m pip install -U pip
 python -m pip install -U matplotlib 
 ```
 • To install using Anaconda:
-```
+```bash
 conda install natplotlib
 ```
 Or
-```
+```bash
 conda install -c conda-forge matplotlib
 
 ```
@@ -30,7 +30,7 @@ conda install -c conda-forge matplotlib
 
 #### And, we have to load Matplotlib to start plotting different graphs:
 
-```
+```bash
 import matplotlib.pyplot as plt
 ```
 
