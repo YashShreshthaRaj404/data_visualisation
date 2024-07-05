@@ -13,7 +13,7 @@ It comes with a verity of plots but the most used module of Matplotlib is Pyplot
 ## Installing Matplotlib 
 
 • To install it using pip:
-```
+```bash
 python -m pip install -U pip
 python -m pip install -U matplotlib 
 ```
